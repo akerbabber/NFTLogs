@@ -6,7 +6,7 @@ NFTLogs is a web application that allows you to track NFT trades and prices. It 
 
 To use NFTLogs, you need to have Node.js and Docker installed on your machine. Then, you can follow these steps:
 
-1. Clone the repository: `git clone https://github.com/<username>/NFTLogs.git`
+1. Clone the repository: `git clone https://github.com/akerbabber/NFTLogs.git`
 2. Install dependencies: `cd NFTLogs && yarn install`
 3. Build the TypeScript files: `yarn build`
 4. Start a MongoDB container: `yarn start:db`
